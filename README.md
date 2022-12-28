@@ -6,3 +6,5 @@
 - 👯 I\'m looking to collaborate on the ground-breaking projects on computer vision.
 - 💬 If you have any problem about my research projects or me, feel free to contact me.
 - 📫 How to reach me: richu@mail.ustc.edu.cn
+
+![Visitor Count](https://profile-counter.glitch.me/hitachinsk/count.svg)
